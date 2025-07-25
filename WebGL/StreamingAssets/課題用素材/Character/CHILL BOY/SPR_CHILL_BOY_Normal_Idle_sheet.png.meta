@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b703f738cd9c57344853bde47b77f085
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3658991281736021800
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_0
+  - first:
+      213: -5183820957681391274
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_1
+  - first:
+      213: -7876800480811603535
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_2
+  - first:
+      213: 1953336802818532971
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_3
+  - first:
+      213: 3623413034969741419
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_4
+  - first:
+      213: -4165714961417403247
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_5
+  - first:
+      213: 952047748872587666
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_6
+  - first:
+      213: -902628946151446968
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_7
+  - first:
+      213: -7927716641612744481
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_8
+  - first:
+      213: 1549227830839702627
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_9
+  - first:
+      213: -7717166455585929873
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_10
+  - first:
+      213: 6438302299501999864
+    second: SPR_CHILL_BOY_Normal_Idle_sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 100
+        width: 286
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d88fdfb0d6a83dc0800000000000000
+      internalID: -3658991281736021800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 100
+        width: 287
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ec26dd4e5f08b0800000000000000
+      internalID: -5183820957681391274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 100
+        width: 286
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9299e12bbffa290800000000000000
+      internalID: -7876800480811603535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 100
+        width: 287
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6622b21975ab1b10800000000000000
+      internalID: 1953336802818532971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 100
+        width: 286
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6834e725f2f84230800000000000000
+      internalID: 3623413034969741419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 100
+        width: 286
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948f2140586036c0800000000000000
+      internalID: -4165714961417403247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 100
+        width: 287
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299c2c8226a563d00800000000000000
+      internalID: 952047748872587666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 100
+        width: 287
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84668ac71c73973f0800000000000000
+      internalID: -902628946151446968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 100
+        width: 287
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd838b0a7b71bf190800000000000000
+      internalID: -7927716641612744481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 100
+        width: 288
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36479550186ff7510800000000000000
+      internalID: 1549227830839702627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6789
+        y: 100
+        width: 288
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f658d36fefd17e490800000000000000
+      internalID: -7717166455585929873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_CHILL_BOY_Normal_Idle_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 7449
+        y: 100
+        width: 287
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6b56e64d1795950800000000000000
+      internalID: 6438302299501999864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SPR_CHILL_BOY_Normal_Idle_sheet_0: -3658991281736021800
+      SPR_CHILL_BOY_Normal_Idle_sheet_1: -5183820957681391274
+      SPR_CHILL_BOY_Normal_Idle_sheet_10: -7717166455585929873
+      SPR_CHILL_BOY_Normal_Idle_sheet_11: 6438302299501999864
+      SPR_CHILL_BOY_Normal_Idle_sheet_2: -7876800480811603535
+      SPR_CHILL_BOY_Normal_Idle_sheet_3: 1953336802818532971
+      SPR_CHILL_BOY_Normal_Idle_sheet_4: 3623413034969741419
+      SPR_CHILL_BOY_Normal_Idle_sheet_5: -4165714961417403247
+      SPR_CHILL_BOY_Normal_Idle_sheet_6: 952047748872587666
+      SPR_CHILL_BOY_Normal_Idle_sheet_7: -902628946151446968
+      SPR_CHILL_BOY_Normal_Idle_sheet_8: -7927716641612744481
+      SPR_CHILL_BOY_Normal_Idle_sheet_9: 1549227830839702627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
